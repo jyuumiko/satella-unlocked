@@ -4,7 +4,7 @@
 
 Me.
 
-## Historical software and hardware
+## Hardware and Software
 
 - **Nintendo** — Super Famicom, Satellaview/BS-X platform and related hardware.
 - **St.GIGA** — Original Satellaview satellite broadcasting service.
@@ -12,7 +12,7 @@ Me.
 
 These names acknowledge the original creators and rights holders; they do not imply endorsement.
 
-## Technical research and community resources
+## Community Resources
 
 - **Super Famicom Development Wiki:** [BS-X Satellaview Header](https://wiki.superfamicom.org/bs-x-satellaview-header) — documentation of the header structure, expired launch counts, checksum conventions, and BIOS detection conditions.
 - **Project Satellaview:** [project.satellaview.org](https://project.satellaview.org/) — preservation research, historical context, and cartridge-dumping information.
@@ -21,7 +21,7 @@ These names acknowledge the original creators and rights holders; they do not im
 
 ## Acknowledgement
 
-Satella Unlocked exists because preserved Satellaview software can outlive the original broadcast service. Thanks to the researchers, hardware enthusiasts, and archivists who have made continued study and real-hardware testing possible.
+Satella Unlocked exists because preserved Satellaview software can outlive the original broadcast service on real hardware. Thanks to the researchers, hardware enthusiasts, and archivists who have made continued study and real-hardware testing possible.
 
 ## Licensing note
 
