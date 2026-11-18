@@ -75,7 +75,7 @@ The following ROMs have been tested:
 
 **BS Fire Emblem: Archanea Saga : 始まりのとき**
 
-**BS Legend of Zelda**
+**BS Legend of Zelda Episode 1**
 
 if anything else works just send a PR.
 
