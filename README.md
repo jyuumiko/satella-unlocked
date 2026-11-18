@@ -2,7 +2,7 @@
 
 Created by **Ｄｉａ！♪～☆**.
 
-**Satella Unlocked** removes expired launch counters from compatible **BS-X Satellaview ROM images**, letting you play No Intro BS-X ROMs with a real BSX Cartridge and Memory pack, or also games that have broken timers (eg they had soundlink or in game timers and the launch period has expired).
+**Satella Unlocked** removes expired launch counters from compatible **BS-X Satellaview ROM images**, letting you play No Intro BS-X ROMs with a real BSX Cartridge and Memory pack, or also games that have broken timers (eg they had soundlink or in game timers and the launch period has expired) that were dumped from a real BS-X cartridge.
 
 ## Features
 
@@ -72,6 +72,8 @@ The following ROMs have been tested:
 **BS Fire Emblem: Archanea Saga : 正義の盗賊団**
 **BS Fire Emblem: Archanea Saga : 始まりのとき**
 **BS Legend of Zelda**
+
+if anything else works just send a PR.
 
 ## Limitations
 
