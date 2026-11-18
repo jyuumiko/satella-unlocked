@@ -68,9 +68,13 @@ The patched copy is placed beside the original. An existing output file is never
 The following ROMs have been tested:
 
 **BS Fire Emblem: Archanea Saga : パレス陥落**
+
 **BS Fire Emblem: Archanea Saga : 赤い竜騎士**
+
 **BS Fire Emblem: Archanea Saga : 正義の盗賊団**
+
 **BS Fire Emblem: Archanea Saga : 始まりのとき**
+
 **BS Legend of Zelda**
 
 if anything else works just send a PR.
