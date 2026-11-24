@@ -97,4 +97,4 @@ See [CREDITS.md](CREDITS.md) for project attribution, technical references, and 
 
 ## Disclaimer
 
-Satella Unlocked is an independent preservation/homebrew utility, not affiliated with or endorsed by Nintendo, St.GIGA, Intelligent Systems, or other rights holders. No commercial game ROMs or BIOS files are included. Use it only with files you are authorised to use.
+Satella Unlocked is an independent preservation/homebrew utility, not affiliated with or endorsed by Nintendo, St.GIGA, or other rights holders. No commercial game ROMs or BIOS files are included. Satella Unlocked does not endorse piracy.
