@@ -1,5 +1,9 @@
 # Satella Unlocked
 
+<p align="center">
+  <img src="SHOWCASE.png" alt="showcase">
+</p>
+
 Created by **Ｄｉａ！♪～☆**.
 
 **Satella Unlocked** removes expired launch counters from compatible **BS-X Satellaview ROM images**, letting you play No Intro BS-X ROMs with a real BSX Cartridge and Memory pack, or also games that have broken timers (eg they had soundlink or in game timers and the launch period has expired) that were dumped from a real BS-X cartridge.
